@@ -13,7 +13,7 @@ Fixed Income Pricing Risk Library
 *  C++, Python
 *  NVIDIA CUDA C++ GPU Acceleration, Thrust
 *  Implement model calibration with Tensorflow
-*  deploy flows and quant library using AWS Cloud Services
+*  Design an AWS cloud solution to make use of the quant library 
 *  cover pre-trade to core analytics
 
 Support Reading Materials:
