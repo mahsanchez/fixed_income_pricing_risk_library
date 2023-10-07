@@ -25,6 +25,8 @@ Support Reading Materials:
 *  xVA: Credit, Funding and Capital Valuation Adjustments (Wiley Finance Series) by Andrew Green
 *  Monte Carlo Methods in Finance by Jaeckel
 *  Monte Carlo Methods in Financial Engineering by Glasserman
+*  An Introduction to the Numerical Simulation of Stochastic Differential Equations by Desmond J. Higham
+*  Deep Learning in Quantitative Finance by Andrew Green
 *  Paul Willmot on Quantitative Finance
 *  Interest Rate Modelling by Andersen Piterbag
 *  Interest Rate Models Theory and Practice Brigo and Mercurio 
