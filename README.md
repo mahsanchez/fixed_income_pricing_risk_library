@@ -25,7 +25,7 @@ Support Reading Materials:
 *  xVA: Credit, Funding and Capital Valuation Adjustments (Wiley Finance Series) by Andrew Green
 *  Monte Carlo Methods in Finance by Jaeckel
 *  Monte Carlo Methods in Financial Engineering by Glasserman
-*  Paul Willmot in Quantitative Finance
+*  Paul Willmot on Quantitative Finance
 *  Interest Rate Modelling by Andersen Piterbag
 *  Interest Rate Models Theory and Practice Brigo and Mercurio 
 *  Fixed Income Modelling by Munk
