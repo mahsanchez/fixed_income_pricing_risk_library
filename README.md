@@ -22,6 +22,7 @@ Support Reading Materials:
 *  C++ Design Patterns and Derivatives Pricing by Mark Joshi
 *  Monte Carlo methods: with application to the pricing of interest rate derivatives by Roman Frey
 *  Modern Computational Finance AAD and Parallel Simulations by Antoine Savigne
+*  Tools for Computational Finance by Rüdiger U. Seydel
 *  xVA: Credit, Funding and Capital Valuation Adjustments (Wiley Finance Series) by Andrew Green
 *  Monte Carlo Methods in Finance by Jaeckel
 *  Monte Carlo Methods in Financial Engineering by Glasserman
