@@ -12,6 +12,7 @@ Fixed Income Pricing Risk Library
 *  Sensitivity analysis with AAD
 *  C++ and Python
 *  NVIDIA CUDA C++ GPU Acceleration, Thrust
+*  Implement model calibration with Tensorflow
 *  deploy flows and quant library using AWS Cloud Services
 *  cover pre-trade to core analytics
 
