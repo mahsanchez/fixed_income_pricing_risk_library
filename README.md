@@ -27,6 +27,7 @@ Support Reading Materials:
 *  Modern Computational Finance AAD and Parallel Simulations by Antoine Savigne
 *  Tools for Computational Finance by Rüdiger U. Seydel
 *  xVA: Credit, Funding and Capital Valuation Adjustments (Wiley Finance Series) by Andrew Green
+*  Derivative Pricing and Credit Exposure Modelling by Lilan Li
 *  High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems by Irene Aldridge
 *  Building Low Latency Applications with C++ by Sourav Ghosh
 *  Developing High-Frequency Trading Systems by Sebastien Donadio, Sourav Ghosh, Romain Rossier
