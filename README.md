@@ -47,6 +47,7 @@ Support Reading Materials:
 *  A Practitioner's Guide to Discrete-Time Yield Curve Modelling by Ken Nyholm
 *  Yield Curve Modeling and Forecasting?: The Dynamic Nelson-Siegel Approach by Francis X. Diebold 
 *  Paul Willmot on Quantitative Finance
+*  Stochastics Calculus for Finance I, II by Shreve
 *  Coursera EPFL Interest Rate Models Damir Filipović
 *  Interest Rate Modelling by Andersen Piterbag
 *  Interest Rate Models Theory and Practice Brigo and Mercurio 
