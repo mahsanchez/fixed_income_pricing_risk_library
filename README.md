@@ -25,6 +25,8 @@ Support Reading Materials:
 *  Discovering Modern C++ by Peter Gottschling
 *  C++ Template Metaprogramming: Concepts, Tools, and Techniques from Boost and Beyond" by David Abrahams, Aleksey Gurtovoy
 *  C++20 - The Complete Guide: First Edition Paperback by Nicolai M. Josuttis
+*  Functional Programming in C++ by Ivan Cukic
+*  C++ Concurrency in Action by Anthony Williams
 *  Introduction to Algorithms by Cormen, Leiserson, Rivest, Stein
 *  Computer Architecture A Quantitative Approach by Hanessy and Patterson
 *  Monte Carlo methods: with application to the pricing of interest rate derivatives by Roman Frey
