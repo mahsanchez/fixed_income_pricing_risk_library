@@ -22,6 +22,7 @@ Support Reading Materials:
 *  C++ Design Patterns and Derivatives Pricing by Mark Joshi
 *  Discovering Modern C++ by Peter Gottschling
 *  C++ Template Metaprogramming: Concepts, Tools, and Techniques from Boost and Beyond" by David Abrahams, Aleksey Gurtovoy
+*  C++20 - The Complete Guide: First Edition Paperback by Nicolai M. Josuttis 
 *  Monte Carlo methods: with application to the pricing of interest rate derivatives by Roman Frey
 *  Modern Computational Finance AAD and Parallel Simulations by Antoine Savigne
 *  Tools for Computational Finance by Rüdiger U. Seydel
