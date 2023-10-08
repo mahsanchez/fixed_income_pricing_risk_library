@@ -37,6 +37,7 @@ Support Reading Materials:
 *  Accuracy and Stability of Numerical Algorithms by Nicholas Highan
 *  Numerical Analysis by Burden and Faires
 *  Deep Learning in Quantitative Finance by Andrew Green
+*  Machine Learning for Risk Calculations: A Practitioner's View by Ignacio Ruiz
 *  A Practitioner's Guide to Discrete-Time Yield Curve Modelling by Ken Nyholm
 *  Yield Curve Modeling and Forecasting?: The Dynamic Nelson-Siegel Approach by Francis X. Diebold 
 *  Paul Willmot on Quantitative Finance
