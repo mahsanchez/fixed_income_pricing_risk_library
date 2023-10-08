@@ -19,6 +19,8 @@ Fixed Income Pricing Risk Library
 Support Reading Materials:
 *  Programming Massively Parallel Processors A Hands-on approach by Wen-Mei Hwu
 *  Programming in Parallel with CUDA by Richard Ansorge
+*  Data Parallel C++ Mastering DPC++ for Programming of Heterogeneous Systems using C++ and SYCL by James Rainders
+*  Pro TBB C++ Parallel Programming with Threading Building Blocks by James Rainders
 *  C++ Design Patterns and Derivatives Pricing by Mark Joshi
 *  Discovering Modern C++ by Peter Gottschling
 *  C++ Template Metaprogramming: Concepts, Tools, and Techniques from Boost and Beyond" by David Abrahams, Aleksey Gurtovoy
