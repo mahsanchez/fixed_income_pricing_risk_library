@@ -34,6 +34,8 @@ Support Reading Materials:
 *  Monte Carlo Methods in Finance by Jaeckel
 *  Monte Carlo Methods in Financial Engineering by Glasserman
 *  An Introduction to the Numerical Simulation of Stochastic Differential Equations by Desmond J. Higham
+*  Accuracy and Stability of Numerical Algorithms by Nicholas Highan
+*  Numerical Analysis by Burden and Faires
 *  Deep Learning in Quantitative Finance by Andrew Green
 *  A Practitioner's Guide to Discrete-Time Yield Curve Modelling by Ken Nyholm
 *  Yield Curve Modeling and Forecasting?: The Dynamic Nelson-Siegel Approach by Francis X. Diebold 
