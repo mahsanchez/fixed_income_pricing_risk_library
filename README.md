@@ -10,7 +10,7 @@ Fixed Income Pricing Risk Library
 *  Risk based PnL across Fixed Income assets
 *  Monte Carlo and PDE Solvers 
 *  Sensitivity analysis with AAD
-*  C++, Python
+*  C++, Python, Rust
 *  NVIDIA CUDA C++ GPU Acceleration, Thrust
 *  Implement model calibration with Tensorflow
 *  Design an AWS cloud solution to make use of the quant library 
@@ -27,6 +27,9 @@ Support Reading Materials:
 *  Modern Computational Finance AAD and Parallel Simulations by Antoine Savigne
 *  Tools for Computational Finance by Rüdiger U. Seydel
 *  xVA: Credit, Funding and Capital Valuation Adjustments (Wiley Finance Series) by Andrew Green
+*  High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems by Irene Aldridge
+*  Building Low Latency Applications with C++: Develop a complete low latency trading ecosystem from scratch using modern C++ by Sourav Ghosh
+*  Developing High-Frequency Trading Systems: Learn how to implement high-frequency trading from scratch with C++ or Java basics by Sebastien Donadio, Sourav Ghosh, Romain Rossier
 *  Monte Carlo Methods in Finance by Jaeckel
 *  Monte Carlo Methods in Financial Engineering by Glasserman
 *  An Introduction to the Numerical Simulation of Stochastic Differential Equations by Desmond J. Higham
@@ -34,6 +37,7 @@ Support Reading Materials:
 *  A Practitioner's Guide to Discrete-Time Yield Curve Modelling by Ken Nyholm
 *  Yield Curve Modeling and Forecasting?: The Dynamic Nelson-Siegel Approach by Francis X. Diebold 
 *  Paul Willmot on Quantitative Finance
+*  Coursera EPFL Interest Rate Models Damir Filipović
 *  Interest Rate Modelling by Andersen Piterbag
 *  Interest Rate Models Theory and Practice Brigo and Mercurio 
 *  Fixed Income Modelling by Munk
