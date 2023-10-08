@@ -55,3 +55,4 @@ Support Reading Materials:
 *  Interest Rate Modelling by Andersen Piterbag
 *  Interest Rate Models Theory and Practice Brigo and Mercurio 
 *  Fixed Income Modelling by Munk
+*  Market Models for Inflation Ferhana Ahmad Oxford University
