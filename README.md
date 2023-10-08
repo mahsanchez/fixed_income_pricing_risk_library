@@ -28,8 +28,8 @@ Support Reading Materials:
 *  Tools for Computational Finance by Rüdiger U. Seydel
 *  xVA: Credit, Funding and Capital Valuation Adjustments (Wiley Finance Series) by Andrew Green
 *  High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems by Irene Aldridge
-*  Building Low Latency Applications with C++: Develop a complete low latency trading ecosystem from scratch using modern C++ by Sourav Ghosh
-*  Developing High-Frequency Trading Systems: Learn how to implement high-frequency trading from scratch with C++ or Java basics by Sebastien Donadio, Sourav Ghosh, Romain Rossier
+*  Building Low Latency Applications with C++ by Sourav Ghosh
+*  Developing High-Frequency Trading Systems by Sebastien Donadio, Sourav Ghosh, Romain Rossier
 *  Monte Carlo Methods in Finance by Jaeckel
 *  Monte Carlo Methods in Financial Engineering by Glasserman
 *  An Introduction to the Numerical Simulation of Stochastic Differential Equations by Desmond J. Higham
