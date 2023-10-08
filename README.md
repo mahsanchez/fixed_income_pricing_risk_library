@@ -55,4 +55,5 @@ Support Reading Materials:
 *  Interest Rate Modelling by Andersen Piterbag
 *  Interest Rate Models Theory and Practice Brigo and Mercurio 
 *  Fixed Income Modelling by Munk
+*  A Functional Libor Market Model Implementation and Application to Exposure Measurement by Wolfram Boenkost
 *  Market Models for Inflation Ferhana Ahmad Oxford University
