@@ -36,7 +36,7 @@ Support Reading Materials:
 *  Monte Carlo Methods in Finance by Jaeckel
 *  Monte Carlo Methods in Financial Engineering by Glasserman
 *  An Introduction to the Numerical Simulation of Stochastic Differential Equations by Desmond J. Higham
-*  Accuracy and Stability of Numerical Algorithms by Nicholas Highan
+*  Accuracy and Stability of Numerical Algorithms by Nicholas Higham
 *  Numerical Analysis by Burden and Faires
 *  Deep Learning in Quantitative Finance by Andrew Green
 *  Machine Learning for Risk Calculations: A Practitioner's View by Ignacio Ruiz
