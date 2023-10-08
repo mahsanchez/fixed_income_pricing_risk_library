@@ -39,6 +39,9 @@ Support Reading Materials:
 *  Developing High-Frequency Trading Systems by Sebastien Donadio, Sourav Ghosh, Romain Rossier
 *  Monte Carlo Methods in Finance by Jaeckel
 *  Monte Carlo Methods in Financial Engineering by Glasserman
+*  Computing Sesnsitivities of CVA with Adjoint Algorithmic Differentiation by d-fine Gmbh Oxford University
+*  The art of differentiating computer programs by Uwe Naumann
+*  Smoking Adjoints : Fast Monte Carlo Greeks by Mike Giles and Paul Glasserman
 *  An Introduction to the Numerical Simulation of Stochastic Differential Equations by Desmond J. Higham
 *  Accuracy and Stability of Numerical Algorithms by Nicholas Higham
 *  Numerical Analysis by Burden and Faires
