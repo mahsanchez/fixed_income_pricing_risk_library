@@ -3,7 +3,7 @@ Fixed Income Pricing Risk Library
 
 *  Yield curve modelling, parameterization, linear swap pricing/risk
 *  Inflation modelling and swap/linker pricing
-*  Vanilla swaptions, SABR, YCSO, midcurve swaptions, CMS, Bermudans
+*  Vanilla swaptions,  Bermudan Swaptions, SABR, YCSO, midcurve swaptions, CMS, Bermudans
 *  Listed rates futures and options
 *  Bond/Repo Pricing
 *  MBS modelling and integration into OTC risk (xVA, CVA, ...)
@@ -48,7 +48,9 @@ Support Reading Materials:
 *  Deep Learning in Quantitative Finance by Andrew Green
 *  Machine Learning for Risk Calculations: A Practitioner's View by Ignacio Ruiz
 *  A Practitioner's Guide to Discrete-Time Yield Curve Modelling by Ken Nyholm
-*  Yield Curve Modeling and Forecasting?: The Dynamic Nelson-Siegel Approach by Francis X. Diebold 
+*  Yield Curve Modeling and Forecasting?: The Dynamic Nelson-Siegel Approach by Francis X. Diebold
+*  Interpolation methods for curve construction by Hagan
+*  Methods for constructing a yield curve. Wilmott Magazine by Hagan
 *  Paul Willmot on Quantitative Finance
 *  Stochastics Calculus for Finance I, II by Shreve
 *  Coursera EPFL Interest Rate Models Damir Filipović
