@@ -17,6 +17,7 @@ Fixed Income Pricing Risk Library
 *  cover pre-trade to core analytics
 
 Support Reading Materials:
+*  CUDA C++ Programming Guide Release 12.2 by NVIDIA
 *  Programming Massively Parallel Processors A Hands-on approach by Wen-Mei Hwu
 *  Programming in Parallel with CUDA by Richard Ansorge
 *  Data Parallel C++ Mastering DPC++ for Programming of Heterogeneous Systems using C++ and SYCL by James Rainders
