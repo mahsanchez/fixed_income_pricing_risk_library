@@ -24,6 +24,7 @@ Support Reading Materials:
 *  Pro TBB C++ Parallel Programming with Threading Building Blocks by James Rainders
 *  C++ Design Patterns and Derivatives Pricing by Mark Joshi
 *  Discovering Modern C++ by Peter Gottschling
+*  C++ High Performance: Master the art of optimizing the functioning of your C++ code by Bjorn Andrist, Viktor Sehr, Ben Garney 
 *  C++ Template Metaprogramming: Concepts, Tools, and Techniques from Boost and Beyond" by David Abrahams, Aleksey Gurtovoy
 *  C++20 - The Complete Guide: First Edition Paperback by Nicolai M. Josuttis
 *  Functional Programming in C++ by Ivan Cukic
