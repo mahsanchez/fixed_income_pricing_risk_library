@@ -53,6 +53,7 @@ Support Reading Materials:
 *  Yield Curve Modeling and Forecasting?: The Dynamic Nelson-Siegel Approach by Francis X. Diebold
 *  Interpolation methods for curve construction by Hagan
 *  Methods for constructing a yield curve. Wilmott Magazine by Hagan
+*  Everything You Always Wanted to Know About Multiple Interest Rate Curve Bootstrapping but Were Afraid to Ask https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2219548
 *  Paul Willmot on Quantitative Finance
 *  Stochastics Calculus for Finance I, II by Shreve
 *  Coursera EPFL Interest Rate Models Damir Filipović
