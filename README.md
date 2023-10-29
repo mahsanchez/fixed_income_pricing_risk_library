@@ -31,6 +31,7 @@ Support Reading Materials:
 *  C++ Concurrency in Action by Anthony Williams
 *  Introduction to Algorithms by Cormen, Leiserson, Rivest, Stein
 *  Computer Architecture A Quantitative Approach by Hanessy and Patterson
+*  Cloud-native, high throughput grid computing using the AWS HTC-Grid solution https://aws.amazon.com/blogs/hpc/cloud-native-high-throughput-computing-with-aws-htc-grid/
 *  Monte Carlo methods: with application to the pricing of interest rate derivatives by Roman Frey
 *  Modern Computational Finance AAD and Parallel Simulations by Antoine Savigne
 *  Tools for Computational Finance by Rüdiger U. Seydel
